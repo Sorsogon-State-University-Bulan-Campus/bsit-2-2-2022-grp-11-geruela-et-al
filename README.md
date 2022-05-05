@@ -2,5 +2,5 @@
 
 An online shop website for Digital Cameras
   
-# <Members> (with github username)
+# <Members> (Shiena Geruela & Angelica Grafil)
   * Juan Dela Cruz (@juandelacruz)
