@@ -1,6 +1,6 @@
-# <Title of your project>
+# <Digital Camera | E-commerce website>
 
-Add description about your project
+An online shop website for Digital Cameras
   
 # <Members> (with github username)
   * Juan Dela Cruz (@juandelacruz)
